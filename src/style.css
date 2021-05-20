@@ -1,0 +1,32 @@
+.drum-pad {
+    height: 50px;
+    width: 50px;
+    color: white;
+  }
+  .buttons {
+    max-width: 190px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    align-content: space-between;
+  }
+  #drum-machine {
+    height: 100vh;
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    flex-direction: column;
+  }
+  #display {
+    background-color: red;
+    width: 190px;
+    text-align: center;
+    margin-bottom: 200px;
+    color: white;
+  }
+  body {
+    background-color: black;
+  }
+  
