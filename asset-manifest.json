@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bateria/static/css/main.b2fc8344.chunk.css",
+    "main.js": "/bateria/static/js/main.1f0f6413.chunk.js",
+    "main.js.map": "/bateria/static/js/main.1f0f6413.chunk.js.map",
+    "runtime-main.js": "/bateria/static/js/runtime-main.4ed51b2f.js",
+    "runtime-main.js.map": "/bateria/static/js/runtime-main.4ed51b2f.js.map",
+    "static/js/2.3763d0ec.chunk.js": "/bateria/static/js/2.3763d0ec.chunk.js",
+    "static/js/2.3763d0ec.chunk.js.map": "/bateria/static/js/2.3763d0ec.chunk.js.map",
+    "index.html": "/bateria/index.html",
+    "static/css/main.b2fc8344.chunk.css.map": "/bateria/static/css/main.b2fc8344.chunk.css.map",
+    "static/js/2.3763d0ec.chunk.js.LICENSE.txt": "/bateria/static/js/2.3763d0ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed51b2f.js",
+    "static/js/2.3763d0ec.chunk.js",
+    "static/css/main.b2fc8344.chunk.css",
+    "static/js/main.1f0f6413.chunk.js"
+  ]
+}
